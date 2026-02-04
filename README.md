@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rugved Narkar</h1>
 <h3 align="center">Code. Learn. Build. Repeat.</h3>
-
+```go
 package main
 
 import "fmt"
