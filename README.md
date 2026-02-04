@@ -1,39 +1,42 @@
 <h1 align="center">Hi 👋, I'm Rugved Narkar</h1>
 <h3 align="center">Code. Learn. Build. Repeat.</h3>
+
+
 ```go
 package main
 
 import "fmt"
 
+
 type Explorer struct {
-	Name           Rugved Sanjay Narkar
-	Role           Golang Backend Developer
-	PrimaryStack   Go Programming Language
-	LearningFocus  Distributed systems fundamentals, backend reliability, and secure API design using Go
-	OpenSourceGoal Contribute consistently to Go-based open-source projects and earn a GSoC opportunity by delivering reliable, well-reviewed code
-	FunFact        Stoicism and applies its principles to learning, coding, and decision-making
+	Name           string
+	Role           string
+	PrimaryStack   []string
+	LearningFocus  string
+	OpenSourceGoal string
+	FunFact        string
 }
 
 func (e Explorer) SayHi() {
 	fmt.Println("Hey there 👋")
-	fmt.Printf("I'm RUGVED NARKAR.\n")
+	fmt.Printf("I'm %s.\n", e.Name)
 	fmt.Println("I enjoy building reliable systems and contributing to open source.")
 }
 
 func main() {
 	me := Explorer{
 		Name:           "Rugved Narkar",
-		Role:           "Backend Developer (Go-focused)",
-		PrimaryStack:   []string{"Go","MongoDB", "REST APIs"},
-		LearningFocus:  "Distributed systems, backend security, and cloud-native tooling",
-		OpenSourceGoal: "GSoC 2026 — meaningful contributions > lines of code",
-		FunFact:        "Practices Stoicism; optimizes life like code",
+		Role:           "Golang Backend Developer",
+		PrimaryStack:   []string{"Go", "MongoDB", "REST APIs"},
+		LearningFocus:  "Distributed systems fundamentals, backend reliability, and secure API design in Go",
+		OpenSourceGoal: "Contribute consistently to Go-based open-source projects and earn a GSoC opportunity by delivering reliable, well-reviewed code",
+		FunFact:        "Practices Stoicism and applies its principles to learning, coding, and decision-making",
+        Reach me :      **narkarrugved100@gmail.com**
+
 	}
 
 	me.SayHi()
 }
-
-- 📫 How to reach me **narkarrugved100@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
