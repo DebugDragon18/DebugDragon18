@@ -11,11 +11,11 @@ import "fmt"
 type Explorer struct {
 	Name           string
 	Role           string
-	PrimaryStack   []string
+	PrimaryStack   string
 	LearningFocus  string
 	OpenSourceGoal string
 	FunFact        string
-    Reach me       string
+    Reachme        string
 }
 
 func (e Explorer) SayHi() {
@@ -28,11 +28,11 @@ func main() {
 	me := Explorer{
 		Name:           "Rugved Narkar",
 		Role:           "Golang Backend Developer",
-		PrimaryStack:   []string{"Go", "MongoDB", "REST APIs"},
+		PrimaryStack:   {"Go", "MongoDB", "REST APIs"},
 		LearningFocus:  "Distributed systems fundamentals, backend reliability, and secure API design in Go",
 		OpenSourceGoal: "Contribute consistently to Go-based open-source projects and earn a GSoC opportunity by delivering reliable, well-reviewed code",
 		FunFact:        "Practices Stoicism and applies its principles to learning, coding, and decision-making",
-        Reach me :      "narkarrugved100@gmail.com"
+        Reachme :      "narkarrugved100@gmail.com"
 
 	}
 
