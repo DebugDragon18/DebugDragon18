@@ -1,3 +1,22 @@
+<a href="https://github.com/Rugved-dev18"> 
+ <img align="center" src="./images/header.png" width="100%">    
+</a>
+<p align="center">
+ 
+ <!--Header-->
+
+<br/>
+<a href="https://github.com/Rugved-dev18"> 
+ <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
+</a>
+<a href="https://github.com/Rugved-dev18"> 
+ <img align="center" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
+</a>
+<a href="https://github.com/Rugved-dev18"> 
+ <img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
+</a>
+<p align="center">
+
 <h1 align="center">Hi 👋, I'm Rugved Narkar</h1>
 <h3 align="center">Code. Learn. Build. Repeat.</h3>
 
