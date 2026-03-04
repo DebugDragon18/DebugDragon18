@@ -49,43 +49,54 @@
 </p>
 
 
-```go
-package main
+<!-- ================= CYBERPUNK AI CORE ================= -->
 
-import "fmt"
+<div align="center">
 
-type Explorer struct {
-	Name           string
-	Role           string
-	PrimaryStack   []string
-	LearningFocus  string
-	OpenSourceGoal string
-	FunFact        string
-	Reachme        string
-}
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:ff00ff,100:00f5ff&height=140&section=header&text=NEURAL%20PROFILE%20INTERFACE&fontSize=28&fontColor=ffffff&animation=twinkling"/>
 
-func (e Explorer) SayHi() {
-	fmt.Println("Hey there 👋")
-	fmt.Printf("I'm %s.\n", e.Name)
-	fmt.Println("I enjoy building reliable systems and contributing to open source.")
-}
+</div>
 
-func main() {
-	me := Explorer{
-		Name:           "Rugved Narkar",
-		Role:           "Golang Backend Developer",
-		PrimaryStack:   []string{"Html", "CSS","Javascript","Go", "MongoDB", "REST APIs"},
-		LearningFocus:  "Distributed systems fundamentals, backend reliability, and secure API design in Go",
-		OpenSourceGoal: "Contribute consistently to Go-based open-source projects and earn a GSoC opportunity by delivering reliable, well-reviewed code",
-		FunFact:        "Practices Stoicism and applies its principles to learning, coding, and decision-making",
-		Reachme:        "narkarrugved100@gmail.com",
-	}
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=18&center=true&vCenter=true&width=700&lines=Booting+Identity+Matrix...;Loading+Neural+Signature...;System+Online+%7C+Rugved+Narkar;Backend+%7C+AI+Infrastructure+Architect" />
+</p>
 
-	me.SayHi()
-}
+---
 
-```
+<table>
+<tr>
+<!-- LEFT SIDE → Bash Panel -->
+<td width="60%">
 
+<pre>
+╔══════════════════════════════════════════════════════╗
+║               >> NEURAL IDENTITY CORE <<             ║
+╠══════════════════════════════════════════════════════╣
+║  NAME          :: Rugved Narkar                      ║
+║  DESIGNATION   :: Backend Developer                  ║
+║  SPECIALTY     :: Golang System Architecture         ║
+║  STACK         :: Go | JS | MongoDB | REST APIs      ║
+║  CURRENT_MODE  :: Distributed Systems Training       ║
+║  AI_DIRECTIVE  :: Autonomous Workflow Engineering    ║
+║  MISSION_2026  :: GSoC | Open Source Domination      ║
+║  MINDSET       :: Stoic Protocol Activated           ║
+║  CONTACT_NODE  :: narkarrugved100@gmail.com          ║
+╚══════════════════════════════════════════════════════╝
+</pre>											
+</td>
+<td width="50%" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%" />
+</td>
+
+<td width="10%">
+</tr>
+</table
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,100:00f5ff&height=3"/>
+</div>
+
+<!-- =========================================================== -->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rugved_018) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rugved_Narkar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:narkarrugved100@gmail.com) 
@@ -131,3 +142,40 @@ func main() {
 <p align="center">
   <img src="https://github.com/Rugved-dev18/Rugved-dev18/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+<div align="center">
+
+---
+
+
+<h4 align="left">
+</h4>
+ 
+╔═&nbsp;&nbsp;👀 T&nbsp;H&nbsp;A&nbsp;N&nbsp;K&nbsp;S&nbsp;F&nbsp;O&nbsp;R&nbsp;V&nbsp;I&nbsp;S&nbsp;I&nbsp;T&nbsp; 👀
+<h4>
+<h4 align="left">  
+ 
+╚═════ &nbsp;𝐈𝐓'𝐒 [𝐃𝐀𝐑𝐊⚫](https://github.com/settings/appearance#gh-dark-mode-only)[𝐁𝐑𝐈𝐆𝐇𝐓⚪](https://github.com/settings/appearance#gh-light-mode-only) 𝐈𝐍 𝐇𝐄𝐑𝐄...
+<h4>
+
+
+
+
+
+
+
+
+
+
+
+<!--🪳ROACH&🕷️SPIDER--> 
+<p align="left">
+<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
+ 
+<!--🦶FOOTER--> 
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+
+
+
+
+
