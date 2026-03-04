@@ -108,3 +108,32 @@ func main() {
  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+
+</h3>
+
+<a href="https://github.com/muhammadtalhasami">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
+<br><br>
+
+
+![City Theme](https://github.com/muhammadtalhasami/muhammadtalhasami/blob/main/Images/citytheme.gif?raw=true)
+
+[![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+
+</br></br>
+<a href="https://github.com/Rugved-dev18">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
+
+<h3 align="center">
+ <a href="https://github.com/Rugved-dev18">
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a> <a href="https://github.com/Rugved-dev18">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+   </a> 
+
+
