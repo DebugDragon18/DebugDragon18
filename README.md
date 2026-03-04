@@ -123,17 +123,11 @@ func main() {
 
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-
 </br></br>
 <a href="https://github.com/Rugved-dev18">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a>
 
-<h3 align="center">
- <a href="https://github.com/Rugved-dev18">
-<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
-    </a> <a href="https://github.com/Rugved-dev18">
-  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
-   </a> 
-
-
+<p align="center">
+  <img src="https://github.com/Rugved-dev18/Rugved-dev18/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
