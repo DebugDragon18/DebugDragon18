@@ -22,7 +22,7 @@
     <a href="https://www.linkedin.com/in/rugved-narkar-22000b314/">
         <img src="assets/mylinkedIn.png" height="40" alt="LinkedIn">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://facebook.com/ahtisham.shaikh.1214">
+    <a href="https://discordapp.com/users/1391057935840444457">
         <img src="assets/mydiscord.png" height="40" alt="Discord">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/rugved_018/">
