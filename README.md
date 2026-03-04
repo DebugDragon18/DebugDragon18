@@ -1,8 +1,8 @@
-<a href="https://github.com/Rugved-dev18"> 
- <img align="center" src="./images/header.png" width="100%">    
-</a>
 <p align="center">
- 
+    <a href="https://github.com/Rugved-dev18">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Rugved+Narkar!;Aspiring+Global+Software+Engineer;Open+Source+Contributor+from+India;Building+The+Future&font=Fira%20Code&center=true&width=640&height=45&color=ff79c6&vCenter=true&pause=1000&size=30" />
+    </a>
+</p>
  <!--Header-->
 
 <br/>
@@ -17,7 +17,7 @@
 </a>
 <p align="center">
 
-<h1 align="center">Hi 👋, I'm Rugved Narkar</h1>
+---
 <h3 align="center">Code. Learn. Build. Repeat.</h3>
 
 <p align="center">
