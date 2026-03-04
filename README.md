@@ -1,3 +1,7 @@
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+
 <p align="center">
     <a href="https://github.com/Rugved-dev18">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Rugved+Narkar!;Aspiring+Global+Software+Engineer;Open+Source+Contributor+from+India;Building+The+Future&font=Fira%20Code&center=true&width=640&height=45&color=ff79c6&vCenter=true&pause=1000&size=30" />
@@ -35,12 +39,6 @@
        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" height="40"/>
 
 </p>
-
-
-
-
-
-
 
 ---
 <h3 align="center">Code. Learn. Build. Repeat.</h3>
