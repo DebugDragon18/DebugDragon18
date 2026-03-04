@@ -20,19 +20,19 @@
 <!--- Adding Header Elements -->
 <p align="center">
     <a href="https://www.linkedin.com/in/rugved-narkar-22000b314/">
-        <img src="assets/Linkedin-logo-vector-PNG" height="40" alt="LinkedIn">
+       <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" height="40"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://discordapp.com/users/1391057935840444457">
-        <img src="assets/mydiscord.png" height="40" alt="Discord">
+       <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="40" height="40"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/rugved_018/">
-        <img src="assets/myinstagram.png" height="40" alt="Instagram">
+         <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40"/>
     </a>&nbsp;&nbsp;
     <a href="https://mail.google.com/mail/?view=cm&to=narkarrugved100@gmail.com">
-        <img src="assets/mygmail.png" height="40" alt="Gmail">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40"/>
     </a>&nbsp;&nbsp;
     <a href="https://x.com/18Rugved10">
-        <img src="assets/mytwitter.png" height="38" alt="X">
+       <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" height="40"/>
 
 </p>
 
