@@ -23,15 +23,15 @@
         <img src="assets/mylinkedIn.png" height="40" alt="LinkedIn">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://facebook.com/ahtisham.shaikh.1214">
-        <img src="assets/myfacebook.png" height="40" alt="Facebook">
+        <img src="assets/mydiscord.png" height="40" alt="Discord">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://instagram.com/ahtishamshaikh1214">
+    <a href="https://www.instagram.com/rugved_018/">
         <img src="assets/myinstagram.png" height="40" alt="Instagram">
     </a>&nbsp;&nbsp;
-    <a href="https://mail.google.com/mail/?view=cm&to=ahtishamshaikh1214@gmail.com">
+    <a href="https://mail.google.com/mail/?view=cm&to=narkarrugved100@gmail.com">
         <img src="assets/mygmail.png" height="40" alt="Gmail">
     </a>&nbsp;&nbsp;
-    <a href="https://x.com/Ahtisham1214">
+    <a href="https://x.com/18Rugved10">
         <img src="assets/mytwitter.png" height="38" alt="X">
 
 </p>
