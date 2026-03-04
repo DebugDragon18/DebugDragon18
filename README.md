@@ -58,7 +58,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=18&center=true&vCenter=true&width=700&lines=Booting+Identity+Matrix...;Loading+Neural+Signature...;System+Online+%7C+Rugved+Narkar;Backend+%7C+AI+Infrastructure+Architect" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=18&center=true&vCenter=true&width=700&lines=Booting+Identity+Matrix...;Loading+Neural+Signature...;System+Online+%7C+Rugved+Narkar;Frontend+%7C+Backend+System+Design" />
 </p>
 
 ---
@@ -74,9 +74,9 @@
 ╠══════════════════════════════════════════════════════╣
 ║  NAME          :: Rugved Narkar                      ║
 ║  DESIGNATION   :: Backend Developer                  ║
-║  SPECIALTY     :: Golang System Architecture         ║
+║  SPECIALTY     :: Golang | JS | TS                   ║
 ║  STACK         :: Go | JS | MongoDB | REST APIs      ║
-║  CURRENT_MODE  :: Distributed Systems Training       ║
+║  CURRENT_MODE  :: Open Source Contribution           ║
 ║  AI_DIRECTIVE  :: Autonomous Workflow Engineering    ║
 ║  MISSION_2026  :: GSoC | Open Source Domination      ║
 ║  MINDSET       :: Stoic Protocol Activated           ║
@@ -119,10 +119,16 @@
  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<h3 align="center">
+ <a href="https://github.com/Rugved-dev18">
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a> <a href="https://github.com/Rugved-dev18">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+ </a> 【﻿Q U O T E S】 
 
 </h3>
 
-<a href="https://github.com/muhammadtalhasami">
+<a href="https://github.com/Rugved-dev18">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a>
 <br><br>
