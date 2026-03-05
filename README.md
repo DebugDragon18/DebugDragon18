@@ -56,7 +56,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=18&center=true&vCenter=true&width=700&lines=Booting+Identity+Matrix...;Loading+Neural+Signature...;System+Online+%7C+Rugved+Narkar;Frontend+%7C+Backend+System+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=18&center=true&vCenter=true&width=700&lines=Booting+Identity+Matrix...;Loading+Neural+Signature...;System+Online+%7C+Rugved+Narkar;Frontend+%7C+Backend+%7C+System+Design" />
 </p>
 
 ---
