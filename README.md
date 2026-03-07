@@ -71,7 +71,7 @@
 ║               >> NEURAL IDENTITY CORE <<             ║
 ╠══════════════════════════════════════════════════════╣
 ║  NAME          :: Rugved Narkar                      ║
-║  DESIGNATION   :: Backend Developer                  ║
+║  DESTINATION   :: Backend Developer                  ║
 ║  SPECIALTY     :: Golang | JS | TS                   ║
 ║  STACK         :: Go | JS | MongoDB | REST APIs      ║
 ║  CURRENT_MODE  :: Open Source Contribution           ║
